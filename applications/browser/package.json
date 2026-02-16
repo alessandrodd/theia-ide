@@ -118,6 +118,7 @@
     "@theia/vsx-registry": "1.68.2",
     "@theia/workspace": "1.68.2",
     "fs-extra": "^9.0.1",
+    "theia-ide-idle-timeout-ext": "1.68.200",
     "theia-ide-product-ext": "1.68.200"
   },
   "devDependencies": {
